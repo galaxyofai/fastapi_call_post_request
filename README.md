@@ -5,5 +5,5 @@
 <img src="./fastapi mainapp.png" alt="Alt text" title="Optional title">
 
 #Call API
-![Screenshot](call api post fastapi.png)
+![MyImage](call api post fastapi.png)
 
